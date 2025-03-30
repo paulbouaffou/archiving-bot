@@ -91,4 +91,4 @@ Voir [CONTRIBUTING.md](CONTRIBUTING.md) pour plus de détails.
 Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus d'informations.
 
 ## Contact
-Pour toute question ou suggestion, ouvrez une issue sur GitHub ou contactez-nous via les pages de discussion Wikimedia.
+Pour toute question ou suggestion, ouvrez une issue sur GitHub ou contactez-nous via cette [page de discussion Wikimedia](https://www.wikidata.org/w/index.php?title=User_talk:ArchivingBot&action=edit&redlink=1).
